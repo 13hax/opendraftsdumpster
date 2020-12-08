@@ -1,0 +1,41 @@
+.bg-primary {
+  background-color: rgba(45, 81, 163,1);
+}
+
+nav {
+  background-color: rgba(3,3,3,.3);
+}
+
+.navbar-brand {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.4rem;
+}
+
+.nav-item {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 3.3rem;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.6rem;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+.footer-link {
+  color: rgba(240,240,240,.83);
+}
+
+.footer-link:hover, .footer-link:focus {
+  color: rgba(240,240,240,1);
+  text-decoration: none;
+}
